@@ -1,0 +1,13 @@
+[Collection]
+name = "x11"
+description = "All-things x11"
+packages = [
+    "alacritty",
+    "dunst",
+    "herbstluftwm",
+    "picom",
+    "polybar",
+    "rofi",
+    "scripts",
+    "wallpapers",
+]

@@ -1,0 +1,12 @@
+[Collection]
+name = "wayland"
+description = "All-things wayland"
+packages = [
+    "scripts",
+    "wallpapers",
+    "alacritty",
+    "hyprland",
+    "rofi",
+    "swaync",
+    "waybar"
+]

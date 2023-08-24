@@ -1,0 +1,7 @@
+[Package]
+name = "picom"
+description = "Picom x11 compositor"
+repo = { host = "github", owner = "mkanilsson-dotfiles", repo = "picom" }
+install-path = "$HOME/.config/picom"
+
+dependencies = []

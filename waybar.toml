@@ -1,0 +1,7 @@
+[Package]
+name = "waybar"
+description = "waybar"
+repo = { host = "github", owner = "mkanilsson-dotfiles", repo = "waybar" }
+install-path = "$HOME/.config/waybar"
+
+dependencies = []

@@ -1,0 +1,7 @@
+[Package]
+name = "wallpapers"
+description = "Gruvbox themed wallpapers"
+repo = { host = "github", owner = "mkanilsson-dotfiles", repo = "wallpapers" }
+install-path = "$HOME/Pictures/wallpapers"
+
+dependencies = []

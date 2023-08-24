@@ -1,0 +1,7 @@
+[Package]
+name = "herbstluftwm"
+description = "Herbstluft Window Manager"
+repo = { host = "github", owner = "mkanilsson-dotfiles", repo = "herbstluft" }
+install-path = "$HOME/.config/herbstluftwm"
+
+dependencies = []

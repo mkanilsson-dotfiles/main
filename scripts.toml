@@ -1,0 +1,7 @@
+[Package]
+name = "scripts"
+description = "Small scripts for various tasks"
+repo = { host = "github", owner = "mkanilsson-dotfiles", repo = "Scripts" }
+install-path = "$HOME/Scripts"
+
+dependencies = []

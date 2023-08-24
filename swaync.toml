@@ -1,0 +1,7 @@
+[Package]
+name = "swaync"
+description = "Customized as a controll center"
+repo = { host = "github", owner = "mkanilsson-dotfiles", repo = "swaync" }
+install-path = "$HOME/.config/swaync"
+
+dependencies = []

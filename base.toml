@@ -1,0 +1,10 @@
+[Collection]
+name = "base"
+description = "Base configurations. terminal, shell, wallpapers, and so on."
+packages = [
+    "alacritty",
+    "fish",
+    "rofi",
+    "scripts",
+    "wallpapers",
+]

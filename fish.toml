@@ -1,0 +1,7 @@
+[Package]
+name = "fish"
+description = "Friendly Interactive Shell"
+repo = { host = "github", owner = "mkanilsson-dotfiles", repo = "fish" }
+install-path = "$HOME/.config/fish"
+
+dependencies = []

@@ -1,0 +1,7 @@
+[Package]
+name = "polybar"
+description = "polybar"
+repo = { host = "github", owner = "mkanilsson-dotfiles", repo = "polybar" }
+install-path = "$HOME/.config/polybar"
+
+dependencies = []

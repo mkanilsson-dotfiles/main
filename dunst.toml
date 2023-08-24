@@ -1,0 +1,7 @@
+[Package]
+name = "dunst"
+description = "dunst"
+repo = { host = "github", owner = "mkanilsson-dotfiles", repo = "dunst" }
+install-path = "$HOME/.config/dunst"
+
+dependencies = []
