@@ -1,6 +1,6 @@
 [Package]
 name = "waybar"
-description = "waybar"
+description = "Gruvbox themed"
 repo = { host = "github", owner = "mkanilsson-dotfiles", repo = "waybar" }
 install-path = "$HOME/.config/waybar"
 

@@ -1,6 +1,6 @@
 [Package]
 name = "dunst"
-description = "dunst"
+description = "Gruvbox themed minimalistic dunst"
 repo = { host = "github", owner = "mkanilsson-dotfiles", repo = "dunst" }
 install-path = "$HOME/.config/dunst"
 

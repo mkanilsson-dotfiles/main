@@ -1,6 +1,6 @@
 [Package]
 name = "rofi"
-description = "rofi"
+description = "Gruvbox themed"
 repo = { host = "github", owner = "mkanilsson-dotfiles", repo = "rofi" }
 install-path = "$HOME/.config/rofi"
 

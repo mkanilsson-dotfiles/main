@@ -1,6 +1,6 @@
 [Package]
 name = "alacritty"
-description = "Alacritty terminal"
+description = "Gruvbox themed terminal"
 repo = { host = "github", owner = "mkanilsson-dotfiles", repo = "alacritty" }
 install-path = "$HOME/.config/alacritty"
 

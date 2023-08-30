@@ -1,6 +1,6 @@
 [Package]
 name = "herbstluftwm"
-description = "Herbstluft Window Manager"
+description = "Gruvbox themed herbstluftwm configuration with blue accent color"
 repo = { host = "github", owner = "mkanilsson-dotfiles", repo = "herbstluft" }
 install-path = "$HOME/.config/herbstluftwm"
 

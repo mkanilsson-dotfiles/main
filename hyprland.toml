@@ -1,6 +1,6 @@
 [Package]
 name = "hyprland"
-description = "hyprland configuration"
+description = "Gruvbox themed hyprland configuration with blue accent color"
 repo = { host = "github", owner = "mkanilsson-dotfiles", repo = "hypr" }
 install-path = "$HOME/.config/hypr"
 

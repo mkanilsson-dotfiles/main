@@ -1,6 +1,6 @@
 [Package]
 name = "polybar"
-description = "polybar"
+description = "Gruvbox themed polybar"
 repo = { host = "github", owner = "mkanilsson-dotfiles", repo = "polybar" }
 install-path = "$HOME/.config/polybar"
 
