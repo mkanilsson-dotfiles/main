@@ -1,0 +1,7 @@
+[Package]
+name = "nvim"
+description = "Gruvbox themed neovim"
+repo = { host = "github", owner = "mkanilsson-dotfiles", repo = "nvim" }
+install-path = "$HOME/.config/nvim"
+
+dependencies = []
