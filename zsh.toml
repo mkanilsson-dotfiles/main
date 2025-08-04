@@ -1,0 +1,7 @@
+[Package]
+name = "zsh"
+description = "Basic zsh config"
+repo = { host = "github", owner = "mkanilsson-dotfiles", repo = "zsh" }
+install-path = "$HOME/.config/zsh"
+
+dependencies = []
